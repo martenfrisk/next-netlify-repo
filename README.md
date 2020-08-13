@@ -6,9 +6,7 @@ This is a [Next.js](https://nextjs.org/) v9.5.0 project bootstrapped with [`crea
 
 This project is a very minimal starter that includes 2 sample components, a sample API endpoint, a `netlify.toml` for deployment, and a `jsconfig.json` for setting up absolute imports and aliases.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cassidoo/next-netlify-starter&utm_source=github&utm_medium=nextstarter-cs&utm_campaign=devex)
 
-(If you click this button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify)
 
 ## Getting Started
 
@@ -25,12 +23,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 ### Installation options
-
-**Option one:** One-click deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cassidoo/next-netlify-starter&utm_source=github&utm_medium=nextstarter-cs&utm_campaign=devex)
-
-**Option two:** Manual clone
 
 1. Clone this repo: `git clone https://github.com/cassidoo/next-netlify-starter.git`
 2. Navigate to the directory and run `npm run dev`
