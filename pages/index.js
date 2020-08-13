@@ -110,7 +110,7 @@ export default function Home() {
 
 			<style jsx>{`
 				.container {
-					height: 100vh;
+					height: auto;
 					display: flex;
 					flex-direction: column;
 					justify-content: center;
@@ -124,6 +124,7 @@ export default function Home() {
 					flex-direction: column;
 					justify-content: center;
 					align-items: center;
+          margin: 2rem 2rem;
 				}
 
         .dif {
@@ -143,6 +144,10 @@ export default function Home() {
 					font-size: 2rem;
 					font-weight: normal;
 				}
+
+        h3 {
+          text-align: center;
+        }
 
 			`}</style>
 
